@@ -4,7 +4,7 @@ This repository is a personal, hands-on knowledge base of 40+ Jupyter notebooks 
 
 ## Highlights for Reviewers
 
-Reviewers with limited time are encouraged to start with the notebooks below, ordered by significance rather than by their position in the repository. The first two, CVaR optimization and VaR backtesting, were implemented from scratch from independently derived theory, not adapted from a library or course template.
+Reviewers with limited time are encouraged to start with the notebooks below, ordered by significance rather than by their position in the repository. The first two, CVaR optimization and VaR backtesting, were implemented from scratch from theory.
 
 | Notebook | Why it merits review                                                                                                                                                                                                                                                                   |
 |---|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
