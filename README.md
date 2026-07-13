@@ -4,7 +4,7 @@ This repository is a personal, hands-on knowledge base of 40+ Jupyter notebooks 
 
 ## Highlights for Reviewers
 
-Reviewersare encouraged to start with the notebooks below. The top three ( Black-Scholes/Brownian motion, CVaR optimization, and VaR backtesting ) were implemented from scratch from theory.
+Reviewers are encouraged to start with the notebooks below. The top three ( Black-Scholes/Brownian motion, CVaR optimization, and VaR backtesting ) were implemented from scratch from theory.
 
 | Notebook | Why it merits review                                                                                                                                                                                                                                                                   |
 |---|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
